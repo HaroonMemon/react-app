@@ -1,0 +1,147 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+/* Header Header Header Header Header*/
+
+.header{
+width: 100%;
+padding: 10px;
+height: 80px;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-between;
+background-color: #7a7ae6;
+}
+.header .logo{
+color: #ffffff;
+}
+.header .nav-bar{
+/* border: 1px solid; */
+padding: 15px 0px 0px 0px;
+}  
+.header .nav-bar ul{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-evenly;
+}
+.header .nav-bar ul li{
+list-style: none;
+width: auto;
+padding: 0px 20px 0px 20px;
+text-transform: uppercase;
+}
+/* .header .nav-bar ul li Link{
+text-decoration: none;
+color: white;
+} */
+/* Header Header Header Header Header*/
+
+/* Nav-bar Nav-bar Nav-bar Nav-bar Nav-bar */
+
+/* .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.navbar-logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-menu {
+  position: fixed;
+  top: 4rem;
+  left: 0;
+  right: 0;
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  display: none;
+}
+
+.navbar-menu.show-menu {
+  display: block;
+}
+
+.navbar-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.nav-item {
+  margin: 0.5rem 0;
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.navbar-toggle {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  font-size: 1.5rem;
+  padding: 0;
+  margin: 0;
+}
+
+.navbar-toggle-icon {
+  display: block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-image: url('../Assets/images/menu-icon.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+@media (min-width: 768px) {
+ 
+  .navbar-menu {
+    position: static;
+    display: flex;
+    background-color: transparent;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .navbar-menu.show-menu {
+    display: block;
+    position: static;
+  }
+
+  .navbar-nav {
+    flex-direction: row;
+  }
+
+  .nav-item {
+    margin: 0 0.5rem;
+  }
+
+  .navbar-toggle {
+    display: none;
+  }
+} */
+  
+
+/* Nav-bar Nav-bar Nav-bar Nav-bar Nav-bar Nav-bar*/

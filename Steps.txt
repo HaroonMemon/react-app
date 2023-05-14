@@ -1,0 +1,9 @@
+1. Create react App(npx create-react-app react-app)
+2. Delete in src files except (Index.js,App.js)
+3. Create a Component and Assets Folder in src
+4. Install react-bootstrap(npm install react-bootstrap)
+5. Install react-icons(npm install react-icons)
+6. Install react-router-dom(npm install react-router-dom)
+7. Create files in Component Folder with .jsx extension(also change extension of index.js and app.js to jsx)
+8. Make a image folder in Assets(For images)
+  
